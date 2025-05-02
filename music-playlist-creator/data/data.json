@@ -1,0 +1,626 @@
+[
+  {
+    "playlistID": "pl001",
+    "playlist_name": "Top Vibes 2020",
+    "playlist_author": "Paulo N",
+    "playlist_art": "assets/img/playlist.png",
+    "songs": [
+      {
+        "artist": "Drake",
+        "title": "Search & Rescue",
+        "album": "For All the Dogs",
+        "duration": "4:33",
+        "album_art": "assets/img/song.png"
+      },
+      {
+        "artist": "Taylor Swift",
+        "title": "Anti-Hero",
+        "album": "Midnights",
+        "duration": "3:20",
+        "album_art": "assets/img/song.png"
+      },
+      {
+        "artist": "Doja Cat",
+        "title": "Say So",
+        "album": "Hot Pink",
+        "duration": "3:57",
+        "album_art": "assets/img/song.png"
+      },
+      {
+        "artist": "Metro Boomin",
+        "title": "Creepin\u2019",
+        "album": "Heroes & Villains",
+        "duration": "3:41",
+        "album_art": "assets/img/song.png"
+      },
+      {
+        "artist": "Ariana Grande",
+        "title": "positions",
+        "album": "Positions",
+        "duration": "2:52",
+        "album_art": "assets/img/song.png"
+      },
+      {
+        "artist": "Steve Lacy",
+        "title": "Bad Habit",
+        "album": "Gemini Rights",
+        "duration": "3:52",
+        "album_art": "assets/img/song.png"
+      },
+      {
+        "artist": "Roddy Ricch",
+        "title": "The Box",
+        "album": "Please Excuse Me for Being Antisocial",
+        "duration": "3:16",
+        "album_art": "assets/img/song.png"
+      },
+      {
+        "artist": "Lady Gaga & Ariana Grande",
+        "title": "Rain On Me",
+        "album": "Chromatica",
+        "duration": "3:02",
+        "album_art": "assets/img/song.png"
+      },
+      {
+        "artist": "The Weeknd",
+        "title": "Blinding Lights",
+        "album": "After Hours",
+        "duration": "3:20",
+        "album_art": "assets/img/song.png"
+      },
+      {
+        "artist": "Tate McRae",
+        "title": "greedy",
+        "album": "THINK LATER",
+        "duration": "2:13",
+        "album_art": "assets/img/song.png"
+      }
+    ]
+  },
+  {
+    "playlistID": "pl002",
+    "playlist_name": "Summer 2021 Bops",
+    "playlist_author": "Paulo N",
+    "playlist_art": "assets/img/playlist.png",
+    "songs": [
+      {
+        "artist": "The Kid LAROI & Justin Bieber",
+        "title": "Stay",
+        "album": "F*CK LOVE 3: OVER YOU",
+        "duration": "2:21",
+        "album_art": "assets/img/song.png"
+      },
+      {
+        "artist": "Ariana Grande",
+        "title": "positions",
+        "album": "Positions",
+        "duration": "2:52",
+        "album_art": "assets/img/song.png"
+      },
+      {
+        "artist": "Noah Kahan",
+        "title": "Stick Season",
+        "album": "Stick Season",
+        "duration": "3:04",
+        "album_art": "assets/img/song.png"
+      },
+      {
+        "artist": "The Weeknd",
+        "title": "Blinding Lights",
+        "album": "After Hours",
+        "duration": "3:20",
+        "album_art": "assets/img/song.png"
+      },
+      {
+        "artist": "Tate McRae",
+        "title": "greedy",
+        "album": "THINK LATER",
+        "duration": "2:13",
+        "album_art": "assets/img/song.png"
+      },
+      {
+        "artist": "Harry Styles",
+        "title": "Watermelon Sugar",
+        "album": "Fine Line",
+        "duration": "2:54",
+        "album_art": "assets/img/song.png"
+      },
+      {
+        "artist": "Dua Lipa",
+        "title": "Don't Start Now",
+        "album": "Future Nostalgia",
+        "duration": "3:03",
+        "album_art": "assets/img/song.png"
+      },
+      {
+        "artist": "Miley Cyrus",
+        "title": "Flowers",
+        "album": "Endless Summer Vacation",
+        "duration": "3:20",
+        "album_art": "assets/img/song.png"
+      },
+      {
+        "artist": "BTS",
+        "title": "Dynamite",
+        "album": "BE",
+        "duration": "3:19",
+        "album_art": "assets/img/song.png"
+      },
+      {
+        "artist": "Glass Animals",
+        "title": "Heat Waves",
+        "album": "Dreamland",
+        "duration": "3:58",
+        "album_art": "assets/img/song.png"
+      }
+    ]
+  },
+  {
+    "playlistID": "pl003",
+    "playlist_name": "Feel Good 2022",
+    "playlist_author": "Paulo N",
+    "playlist_art": "assets/img/playlist.png",
+    "songs": [
+      {
+        "artist": "Glass Animals",
+        "title": "Heat Waves",
+        "album": "Dreamland",
+        "duration": "3:58",
+        "album_art": "assets/img/song.png"
+      },
+      {
+        "artist": "Noah Kahan",
+        "title": "Stick Season",
+        "album": "Stick Season",
+        "duration": "3:04",
+        "album_art": "assets/img/song.png"
+      },
+      {
+        "artist": "SZA",
+        "title": "Good Days",
+        "album": "SOS",
+        "duration": "4:40",
+        "album_art": "assets/img/song.png"
+      },
+      {
+        "artist": "Billie Eilish",
+        "title": "everything i wanted",
+        "album": "Single",
+        "duration": "4:05",
+        "album_art": "assets/img/song.png"
+      },
+      {
+        "artist": "Tate McRae",
+        "title": "greedy",
+        "album": "THINK LATER",
+        "duration": "2:13",
+        "album_art": "assets/img/song.png"
+      },
+      {
+        "artist": "Justin Bieber",
+        "title": "Peaches",
+        "album": "Justice",
+        "duration": "3:18",
+        "album_art": "assets/img/song.png"
+      },
+      {
+        "artist": "Doja Cat & SZA",
+        "title": "Kiss Me More",
+        "album": "Planet Her",
+        "duration": "3:28",
+        "album_art": "assets/img/song.png"
+      },
+      {
+        "artist": "Nicki Minaj",
+        "title": "Super Freaky Girl",
+        "album": "Pink Friday 2",
+        "duration": "3:25",
+        "album_art": "assets/img/song.png"
+      },
+      {
+        "artist": "Silk Sonic",
+        "title": "Leave The Door Open",
+        "album": "An Evening with Silk Sonic",
+        "duration": "4:02",
+        "album_art": "assets/img/song.png"
+      },
+      {
+        "artist": "BTS",
+        "title": "Dynamite",
+        "album": "BE",
+        "duration": "3:19",
+        "album_art": "assets/img/song.png"
+      }
+    ]
+  },
+  {
+    "playlistID": "pl004",
+    "playlist_name": "Chill Hits 2023",
+    "playlist_author": "Paulo N",
+    "playlist_art": "assets/img/playlist.png",
+    "songs": [
+      {
+        "artist": "Ariana Grande",
+        "title": "positions",
+        "album": "Positions",
+        "duration": "2:52",
+        "album_art": "assets/img/song.png"
+      },
+      {
+        "artist": "The Kid LAROI & Justin Bieber",
+        "title": "Stay",
+        "album": "F*CK LOVE 3: OVER YOU",
+        "duration": "2:21",
+        "album_art": "assets/img/song.png"
+      },
+      {
+        "artist": "Saweetie",
+        "title": "Best Friend (feat. Doja Cat)",
+        "album": "Pretty Bitch Music",
+        "duration": "2:35",
+        "album_art": "assets/img/song.png"
+      },
+      {
+        "artist": "Doja Cat",
+        "title": "Say So",
+        "album": "Hot Pink",
+        "duration": "3:57",
+        "album_art": "assets/img/song.png"
+      },
+      {
+        "artist": "Dua Lipa",
+        "title": "Don't Start Now",
+        "album": "Future Nostalgia",
+        "duration": "3:03",
+        "album_art": "assets/img/song.png"
+      },
+      {
+        "artist": "Nicki Minaj",
+        "title": "Super Freaky Girl",
+        "album": "Pink Friday 2",
+        "duration": "3:25",
+        "album_art": "assets/img/song.png"
+      },
+      {
+        "artist": "Roddy Ricch",
+        "title": "The Box",
+        "album": "Please Excuse Me for Being Antisocial",
+        "duration": "3:16",
+        "album_art": "assets/img/song.png"
+      },
+      {
+        "artist": "Post Malone",
+        "title": "Circles",
+        "album": "Hollywood's Bleeding",
+        "duration": "3:35",
+        "album_art": "assets/img/song.png"
+      },
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "good 4 u",
+        "album": "SOUR",
+        "duration": "2:58",
+        "album_art": "assets/img/song.png"
+      },
+      {
+        "artist": "Masked Wolf",
+        "title": "Astronaut In The Ocean",
+        "album": "Astronomical",
+        "duration": "2:12",
+        "album_art": "assets/img/song.png"
+      }
+    ]
+  },
+  {
+    "playlistID": "pl005",
+    "playlist_name": "Power Pop 2024",
+    "playlist_author": "Paulo N",
+    "playlist_art": "assets/img/playlist.png",
+    "songs": [
+      {
+        "artist": "Billie Eilish",
+        "title": "everything i wanted",
+        "album": "Single",
+        "duration": "4:05",
+        "album_art": "assets/img/song.png"
+      },
+      {
+        "artist": "BTS",
+        "title": "Dynamite",
+        "album": "BE",
+        "duration": "3:19",
+        "album_art": "assets/img/song.png"
+      },
+      {
+        "artist": "Taylor Swift",
+        "title": "Anti-Hero",
+        "album": "Midnights",
+        "duration": "3:20",
+        "album_art": "assets/img/song.png"
+      },
+      {
+        "artist": "Roddy Ricch",
+        "title": "The Box",
+        "album": "Please Excuse Me for Being Antisocial",
+        "duration": "3:16",
+        "album_art": "assets/img/song.png"
+      },
+      {
+        "artist": "Silk Sonic",
+        "title": "Leave The Door Open",
+        "album": "An Evening with Silk Sonic",
+        "duration": "4:02",
+        "album_art": "assets/img/song.png"
+      },
+      {
+        "artist": "Lady Gaga & Ariana Grande",
+        "title": "Rain On Me",
+        "album": "Chromatica",
+        "duration": "3:02",
+        "album_art": "assets/img/song.png"
+      },
+      {
+        "artist": "Doja Cat & SZA",
+        "title": "Kiss Me More",
+        "album": "Planet Her",
+        "duration": "3:28",
+        "album_art": "assets/img/song.png"
+      },
+      {
+        "artist": "Miley Cyrus",
+        "title": "Flowers",
+        "album": "Endless Summer Vacation",
+        "duration": "3:20",
+        "album_art": "assets/img/song.png"
+      },
+      {
+        "artist": "Dua Lipa",
+        "title": "Don't Start Now",
+        "album": "Future Nostalgia",
+        "duration": "3:03",
+        "album_art": "assets/img/song.png"
+      },
+      {
+        "artist": "Masked Wolf",
+        "title": "Astronaut In The Ocean",
+        "album": "Astronomical",
+        "duration": "2:12",
+        "album_art": "assets/img/song.png"
+      }
+    ]
+  },
+  {
+    "playlistID": "pl006",
+    "playlist_name": "Late Night Jams",
+    "playlist_author": "Paulo N",
+    "playlist_art": "assets/img/playlist.png",
+    "songs": [
+      {
+        "artist": "Lil Nas X",
+        "title": "MONTERO (Call Me By Your Name)",
+        "album": "MONTERO",
+        "duration": "2:17",
+        "album_art": "assets/img/song.png"
+      },
+      {
+        "artist": "The Weeknd",
+        "title": "Blinding Lights",
+        "album": "After Hours",
+        "duration": "3:20",
+        "album_art": "assets/img/song.png"
+      },
+      {
+        "artist": "Masked Wolf",
+        "title": "Astronaut In The Ocean",
+        "album": "Astronomical",
+        "duration": "2:12",
+        "album_art": "assets/img/song.png"
+      },
+      {
+        "artist": "Megan Thee Stallion",
+        "title": "Savage Remix (feat. Beyonc\u00e9)",
+        "album": "Suga",
+        "duration": "4:02",
+        "album_art": "assets/img/song.png"
+      },
+      {
+        "artist": "SZA",
+        "title": "Good Days",
+        "album": "SOS",
+        "duration": "4:40",
+        "album_art": "assets/img/song.png"
+      },
+      {
+        "artist": "Glass Animals",
+        "title": "Heat Waves",
+        "album": "Dreamland",
+        "duration": "3:58",
+        "album_art": "assets/img/song.png"
+      },
+      {
+        "artist": "Doja Cat",
+        "title": "Say So",
+        "album": "Hot Pink",
+        "duration": "3:57",
+        "album_art": "assets/img/song.png"
+      },
+      {
+        "artist": "Post Malone",
+        "title": "Circles",
+        "album": "Hollywood's Bleeding",
+        "duration": "3:35",
+        "album_art": "assets/img/song.png"
+      },
+      {
+        "artist": "The Kid LAROI & Justin Bieber",
+        "title": "Stay",
+        "album": "F*CK LOVE 3: OVER YOU",
+        "duration": "2:21",
+        "album_art": "assets/img/song.png"
+      },
+      {
+        "artist": "Ariana Grande",
+        "title": "positions",
+        "album": "Positions",
+        "duration": "2:52",
+        "album_art": "assets/img/song.png"
+      }
+    ]
+  },
+  {
+    "playlistID": "pl007",
+    "playlist_name": "Road Trip Anthems",
+    "playlist_author": "Paulo N",
+    "playlist_art": "assets/img/playlist.png",
+    "songs": [
+      {
+        "artist": "The Kid LAROI & Justin Bieber",
+        "title": "Stay",
+        "album": "F*CK LOVE 3: OVER YOU",
+        "duration": "2:21",
+        "album_art": "assets/img/song.png"
+      },
+      {
+        "artist": "Ice Spice",
+        "title": "Princess Diana",
+        "album": "Like..? EP",
+        "duration": "2:34",
+        "album_art": "assets/img/song.png"
+      },
+      {
+        "artist": "The Weeknd",
+        "title": "Blinding Lights",
+        "album": "After Hours",
+        "duration": "3:20",
+        "album_art": "assets/img/song.png"
+      },
+      {
+        "artist": "Silk Sonic",
+        "title": "Leave The Door Open",
+        "album": "An Evening with Silk Sonic",
+        "duration": "4:02",
+        "album_art": "assets/img/song.png"
+      },
+      {
+        "artist": "Ariana Grande",
+        "title": "positions",
+        "album": "Positions",
+        "duration": "2:52",
+        "album_art": "assets/img/song.png"
+      },
+      {
+        "artist": "Noah Kahan",
+        "title": "Stick Season",
+        "album": "Stick Season",
+        "duration": "3:04",
+        "album_art": "assets/img/song.png"
+      },
+      {
+        "artist": "Tate McRae",
+        "title": "greedy",
+        "album": "THINK LATER",
+        "duration": "2:13",
+        "album_art": "assets/img/song.png"
+      },
+      {
+        "artist": "Billie Eilish",
+        "title": "everything i wanted",
+        "album": "Single",
+        "duration": "4:05",
+        "album_art": "assets/img/song.png"
+      },
+      {
+        "artist": "Saweetie",
+        "title": "Best Friend (feat. Doja Cat)",
+        "album": "Pretty Bitch Music",
+        "duration": "2:35",
+        "album_art": "assets/img/song.png"
+      },
+      {
+        "artist": "Roddy Ricch",
+        "title": "The Box",
+        "album": "Please Excuse Me for Being Antisocial",
+        "duration": "3:16",
+        "album_art": "assets/img/song.png"
+      }
+    ]
+  },
+  {
+    "playlistID": "pl008",
+    "playlist_name": "Workout Boosters",
+    "playlist_author": "Paulo N",
+    "playlist_art": "assets/img/playlist.png",
+    "songs": [
+      {
+        "artist": "Olivia Rodrigo",
+        "title": "good 4 u",
+        "album": "SOUR",
+        "duration": "2:58",
+        "album_art": "assets/img/song.png"
+      },
+      {
+        "artist": "Tate McRae",
+        "title": "greedy",
+        "album": "THINK LATER",
+        "duration": "2:13",
+        "album_art": "assets/img/song.png"
+      },
+      {
+        "artist": "Post Malone",
+        "title": "Circles",
+        "album": "Hollywood's Bleeding",
+        "duration": "3:35",
+        "album_art": "assets/img/song.png"
+      },
+      {
+        "artist": "Megan Thee Stallion",
+        "title": "Savage Remix (feat. Beyonc\u00e9)",
+        "album": "Suga",
+        "duration": "4:02",
+        "album_art": "assets/img/song.png"
+      },
+      {
+        "artist": "Ice Spice",
+        "title": "Princess Diana",
+        "album": "Like..? EP",
+        "duration": "2:34",
+        "album_art": "assets/img/song.png"
+      },
+      {
+        "artist": "Glass Animals",
+        "title": "Heat Waves",
+        "album": "Dreamland",
+        "duration": "3:58",
+        "album_art": "assets/img/song.png"
+      },
+      {
+        "artist": "Ariana Grande",
+        "title": "positions",
+        "album": "Positions",
+        "duration": "2:52",
+        "album_art": "assets/img/song.png"
+      },
+      {
+        "artist": "Justin Bieber",
+        "title": "Peaches",
+        "album": "Justice",
+        "duration": "3:18",
+        "album_art": "assets/img/song.png"
+      },
+      {
+        "artist": "The Kid LAROI & Justin Bieber",
+        "title": "Stay",
+        "album": "F*CK LOVE 3: OVER YOU",
+        "duration": "2:21",
+        "album_art": "assets/img/song.png"
+      },
+      {
+        "artist": "Silk Sonic",
+        "title": "Leave The Door Open",
+        "album": "An Evening with Silk Sonic",
+        "duration": "4:02",
+        "album_art": "assets/img/song.png"
+      }
+    ]
+  }
+]

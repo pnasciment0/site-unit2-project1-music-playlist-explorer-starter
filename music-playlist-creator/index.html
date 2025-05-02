@@ -1,27 +1,50 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-    <title>Music Playlist Explorer</title>
-    <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
-    
-    <link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Music Playlist Explorer</title>
+  <link rel="icon" type="image/x-icon" href="/images/favicon.ico" />
+  <link rel="stylesheet" href="style.css" />
 </head>
 <body>
     <header>
-        <!-- Your header content here -->
-    </header>
+        <h1>Music Playlist Explorer</h1>
+        <nav>
+          <a href="index.html">Home</a>
+          <a href="featured.html">Featured</a>
+        </nav>
+      </header>
 
-    <main> 
-        <!-- Your main content here -->
-    </main>
+  <main>
+    <section class="playlist-cards"></section>
+  </main>
 
-    <footer>
-        <!-- Your footer content here -->
-    </footer>
-    <script src="data/data.js"></script>
-    <script src="script.js"></script>
+  <footer>
+    <p>&copy; 2025 Music Playlist Explorer</p>
+  </footer>
+
+  <script src="data/data.js"></script>
+  <script src="script.js"></script>
+
+
+  <div id="modal" class="modal-overlay" style="display: none;">
+    <div class="modal-content">
+      <button class="modal-close" onclick="closeModal()">&times;</button>
+  
+      <div class="modal-header">
+        <img id="modal-playlist-image" src="" alt="Playlist Cover" class="modal-cover" />
+        <div class="modal-info">
+          <h2 id="modal-playlist-name" class="modal-title"></h2>
+          <p id="modal-playlist-author" class="modal-creator"></p>
+        </div>
+      </div>
+      <button id="shuffle-button" class="shuffle-button">Shuffle</button>
+  
+      <div id="modal-song-list" class="song-list">
+        <!-- Songs will be dynamically inserted here -->
+      </div>
+    </div>
+  </div>
 </body>
 </html>
