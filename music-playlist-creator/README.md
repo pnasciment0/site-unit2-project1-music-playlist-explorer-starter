@@ -1,10 +1,9 @@
-📝 `NOTE` Use this template to initialize the contents of a README.md file for your application. As you work on your assignment over the course of the week, update the required or stretch features lists to indicate which features you have completed by changing `[ ]` to `[x]`. (🚫 Remove this paragraph before submitting your assignment.)
 
 ## Unit Assignment: Music Playlist Explorer
 
-Submitted by: **NAME**
+Submitted by: **Paulo Nascimento**
 
-Estimated time spent: **#** hours spent in total
+Estimated time spent: **7** hours spent in total
 
 Deployed Application (**required**): [Music Playlist Explorer Deployed Site](ADD_LINK_HERE)
 
@@ -118,28 +117,22 @@ Deployed Application (**required**): [Music Playlist Explorer Deployed Site](ADD
 
 ### Walkthrough Video
 
-`TODO://` Add the embedded URL code to your animated app walkthrough below, `ADD_EMBEDDED_CODE_HERE`. Make sure the video actually renders and is playable when viewing this README. Ensure your walkthrough showcases the presence and/or functionality of all features you implemented above (check them off as you film!). Pay attention to any **VIDEO WALKTHROUGH SPECIAL INSTRUCTIONS** checkboxes listed above to ensure graders see the full functionality of your website! (🚫 Remove this paragraph after adding walkthrough video)
-
-`ADD_EMBEDDED_CODE_HERE`
+https://www.loom.com/share/2a544221e34f4308aa06b62eedcb1da3?sid=8429c768-6624-4e0a-9fe8-72a58b2a106c
 
 ### Reflection
 
 * Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
 
-Add your response here
+N/A
 
 * If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
   
-Add your response here
+I definitely would've done the stretch features with more time. Otherwise I'm happy with the way the implementation went.
 
 * Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
 
-Add your response here
+N/A
 
 ### Open-source libraries used
 
-- Add any links to open-source libraries used in your project.
-
 ### Shout out
-
-Give a shout out to somebody from your cohort that especially helped you during your project. This can be a fellow peer, instructor, TA, mentor, etc.
