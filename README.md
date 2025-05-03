@@ -5,7 +5,7 @@ Submitted by: **Paulo Nascimento**
 
 Estimated time spent: **7** hours spent in total
 
-Deployed Application (**required**): [Music Playlist Explorer Deployed Site](ADD_LINK_HERE)
+Deployed Application (**required**): [Music Playlist Explorer Deployed Site](https://pnasciment0.github.io/site-unit2-project1-music-playlist-explorer-starter/music-playlist-creator/)
 
 ### Application Features
 
