@@ -119,6 +119,8 @@ Deployed Application (**required**): [Music Playlist Explorer Deployed Site](ADD
 
 https://www.loom.com/share/2a544221e34f4308aa06b62eedcb1da3?sid=8429c768-6624-4e0a-9fe8-72a58b2a106c
 
+[Watch demo video](musicplaylistexplorer.mp4)
+
 ### Reflection
 
 * Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
